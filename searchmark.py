@@ -19,7 +19,7 @@ while 1:
     
     gmail_sender='vgnshprabhakar@gmail.com'
     
-    gmail_password='02021998@'
+    gmail_password='your gmail password'
     
     server=smtplib.SMTP('smtp.gmail.com:587')
     
